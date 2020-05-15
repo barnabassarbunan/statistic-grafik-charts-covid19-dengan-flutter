@@ -2,6 +2,15 @@
 
 Tugas akhir di kelas Eudeka! Membuat Statistik dengan Grafik Pada Aplikasi Covid19.
 
+#Screnshoot Aplikasi
+![statistic-grafik-charts-covid19-dengan-flutter](https://github.com/barnabassarbunan/statistic-grafik-charts-covid19-dengan-flutter/blob/master/screnshoot_app/photo6194906660355549641.jpg)
+
+![statistic-grafik-charts-covid19-dengan-flutter](https://github.com/barnabassarbunan/statistic-grafik-charts-covid19-dengan-flutter/blob/master/screnshoot_app/photo6194906660355549642.jpg)
+
+![statistic-grafik-charts-covid19-dengan-flutter](https://github.com/barnabassarbunan/statistic-grafik-charts-covid19-dengan-flutter/blob/master/screnshoot_app/photo6194906660355549643.jpg)
+
+![statistic-grafik-charts-covid19-dengan-flutter](https://github.com/barnabassarbunan/statistic-grafik-charts-covid19-dengan-flutter/blob/master/screnshoot_app/photo6194906660355549644.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
