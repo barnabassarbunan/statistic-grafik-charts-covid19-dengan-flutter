@@ -1,6 +1,6 @@
-# prakerja
+# Statistik Covid-19 dengan Flutter
 
-A new Flutter application.
+Tugas akhir di kelas Eudeka! Membuat Statistik dengan Grafik Pada Aplikasi Covid19.
 
 ## Getting Started
 
